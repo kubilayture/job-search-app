@@ -1,0 +1,353 @@
+[    {
+    "id": 1,
+    "title": "Software Engineer",
+    "company": "Google",
+    "location": "Mountain View",
+    "subtitle": "Build and maintain efficient, reusable, and reliable code"
+    },
+    {
+    "id": 2,
+    "title": "Product Manager",
+    "company": "Facebook",
+    "location": "Menlo Park",
+    "subtitle": "Lead cross-functional teams to deliver innovative products"
+    },
+    {
+    "id": 3,
+    "title": "Data Scientist",
+    "company": "Amazon",
+    "location": "Seattle",
+    "subtitle": "Develop and implement statistical models for data analysis"
+    },
+    {
+    "id": 4,
+    "title": "UI/UX Designer",
+    "company": "Apple",
+    "location": "Cupertino",
+    "subtitle": "Create intuitive and engaging user experiences"
+    },
+    {
+    "id": 5,
+    "title": "Marketing Manager",
+    "company": "Microsoft",
+    "location": "Redmond",
+    "subtitle": "Develop and execute comprehensive marketing strategies"
+    },
+    {
+    "id": 6,
+    "title": "Financial Analyst",
+    "company": "JP Morgan",
+    "location": "New York",
+    "subtitle": "Analyze financial data and make recommendations for investments"
+    },
+    {
+    "id": 7,
+    "title": "Project Manager",
+    "company": "Accenture",
+    "location": "Chicago",
+    "subtitle": "Lead cross-functional teams to deliver projects on time and within budget"
+    },
+    {
+    "id": 8,
+    "title": "DevOps Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto",
+    "subtitle": "Automate and optimize software deployment processes"
+    },
+    {
+    "id": 9,
+    "title": "Content Strategist",
+    "company": "Netflix",
+    "location": "Los Gatos",
+    "subtitle": "Develop and execute content strategies that align with company goals"
+    },
+    {
+    "id": 10,
+    "title": "Data Engineer",
+    "company": "Uber",
+    "location": "San Francisco",
+    "subtitle": "Build and maintain scalable data infrastructure"
+    },
+    {
+    "id": 11,
+    "title": "Product Designer",
+    "company": "Airbnb",
+    "location": "San Francisco",
+    "subtitle": "Design intuitive and visually appealing products that meet user needs"
+    },
+    {
+    "id": 12,
+    "title": "Sales Representative",
+    "company": "Dell Technologies",
+    "location": "Round Rock",
+    "subtitle": "Sell company products and services to customers"
+    },
+    {
+    "id": 13,
+    "title": "Business Analyst",
+    "company": "Goldman Sachs",
+    "location": "New York",
+    "subtitle": "Analyze business data and make recommendations for improvement"
+    },
+    {
+    "id": 14,
+    "title": "Front-End Developer",
+    "company": "Slack",
+    "location": "San Francisco",
+    "subtitle": "Build and maintain user-friendly web interfaces"
+    },
+    {
+    "id": 15,
+    "title": "IT Support Specialist",
+    "company": "Cisco Systems",
+    "location": "San Jose",
+    "subtitle": "Provide technical support to users and resolve software and hardware issues"
+    },
+    {
+    "id": 16,
+    "title": "Human Resources Manager",
+    "company": "Deloitte",
+    "location": "New York",
+    "subtitle": "Manage HR processes and policies, and support employees in HR matters"
+    },
+    {
+    "id": 17,
+    "title": "Back-End Developer",
+    "company": "Dropbox",
+    "location": "San Francisco",
+    "subtitle": "Build and maintain efficient and scalable server-side systems"
+    },
+    {
+    "id": 18,
+    "title": "Marketing Coordinator",
+    "company": "LinkedIn",
+    "location": "Sunnyvale",
+    "subtitle": "Support marketing team with various tasks such as event planning and campaign management"
+},
+{
+    "id": 19,
+    "title": "Full Stack Developer",
+    "company": "Spotify",
+    "location": "New York",
+    "subtitle": "Develop and maintain full-stack applications with a focus on user experience"
+},
+{
+    "id": 20,
+    "title": "Quality Assurance Engineer",
+    "company": "Intuit",
+    "location": "Mountain View",
+    "subtitle": "Ensure software meets quality standards and identify and report bugs"
+},
+{
+    "id": 21,
+    "title": "Customer Service Representative",
+    "company": "Verizon",
+    "location": "Basking Ridge",
+    "subtitle": "Provide excellent customer service and resolve customer inquiries and complaints"
+},
+{
+    "id": 22,
+    "title": "Public Relations Specialist",
+    "company": "Edelman",
+    "location": "New York",
+    "subtitle": "Develop and execute public relations strategies to enhance company reputation"
+},
+{
+    "id": 23,
+    "title": "Software Tester",
+    "company": "Oracle",
+    "location": "Redwood City",
+    "subtitle": "Test software to ensure it meets requirements and identify and report bugs"
+},
+{
+    "id": 24,
+    "title": "Network Administrator",
+    "company": "HP Inc.",
+    "location": "Palo Alto",
+    "subtitle": "Manage and maintain company network systems to ensure optimal performance"
+},
+{
+    "id": 25,
+    "title": "Graphic Designer",
+    "company": "Adobe",
+    "location": "San Jose",
+    "subtitle": "Create visually appealing designs for various mediums including print and digital"
+},
+{
+    "id": 26,
+    "title": "Data Scientist",
+    "company": "Microsoft",
+    "location": "Redmond",
+    "subtitle": "Analyze large datasets to find trends and make data-driven decisions"
+  },
+  {
+    "id": 27,
+    "title": "Web Developer",
+    "company": "Apple",
+    "location": "Cupertino",
+    "subtitle": "Develop and maintain websites and web applications"
+  },
+  {
+    "id": 28,
+    "title": "Product Designer",
+    "company": "Amazon",
+    "location": "Seattle",
+    "subtitle": "Design and iterate on products to ensure a great user experience"
+  },
+  {
+    "id": 29,
+    "title": "Full Stack Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto",
+    "subtitle": "Develop and maintain full-stack applications for cutting-edge technology"
+  },
+  {
+    "id": 30,
+    "title": "Marketing Manager",
+    "company": "Netflix",
+    "location": "Los Gatos",
+    "subtitle": "Develop and execute marketing campaigns to drive user growth and engagement"
+  },
+  {
+    "id": 31,
+    "title": "Financial Analyst",
+    "company": "Facebook",
+    "location": "Menlo Park",
+    "subtitle": "Analyze financial data to make informed business decisions"
+  },
+  {
+    "id": 32,
+    "title": "Software Architect",
+    "company": "Google",
+    "location": "Mountain View",
+    "subtitle": "Design and oversee the development of software systems"
+  },
+  {
+    "id": 33,
+    "title": "HR Manager",
+    "company": "Microsoft",
+    "location": "Redmond",
+    "subtitle": "Manage human resources and ensure a positive work environment for employees"
+  },
+  {
+    "id": 34,
+    "title": "Business Analyst",
+    "company": "Apple",
+    "location": "Cupertino",
+    "subtitle": "Analyze business data to make informed decisions and drive growth"
+  },
+  {
+    "id": 35,
+    "title": "DevOps Engineer",
+    "company": "Amazon",
+    "location": "Seattle",
+    "subtitle": "Develop and maintain infrastructure to ensure efficient and reliable software deployment"
+  },
+  {
+    "id": 36,
+    "title": "Graphic Designer",
+    "company": "Tesla",
+    "location": "Palo Alto",
+    "subtitle": "Design visual concepts, using computer software or by hand, to communicate ideas that inspire, inform, or captivate consumers"
+  },
+  {
+    "id": 37,
+    "title": "Product Manager",
+    "company": "Netflix",
+    "location": "Los Gatos",
+    "subtitle": "Lead product development and ensure product meets customer needs"
+  },
+  {
+    "id": 38,
+    "title": "Data Analyst",
+    "company": "Facebook",
+    "location": "Menlo Park",
+    "subtitle": "Collect and analyze data to make informed decisions"
+  },
+  {
+    "id": 39,
+    "title": "Security Engineer",
+    "company": "Google",
+    "location": "Mountain View",
+    "subtitle": "Protect company's information and systems from unauthorized access and security threats"
+  },
+  {
+    "id": 40,
+    "title": "Project Manager",
+    "company": "Microsoft",
+    "location": "Redmond",
+    "subtitle": "Lead cross-functional teams to deliver projects on time and within budget"
+    },
+    {
+    "id": 41,
+    "title": "UI/UX Designer",
+    "company": "Apple",
+    "location": "Cupertino",
+    "subtitle": "Design user interfaces and user experiences to create intuitive and engaging products"
+    },
+    {
+    "id": 42,
+    "title": "Cloud Engineer",
+    "company": "Amazon",
+    "location": "Seattle",
+    "subtitle": "Develop and maintain cloud-based solutions for efficient and scalable computing"
+    },
+    {
+    "id": 43,
+    "title": "Quality Assurance Engineer",
+    "company": "Tesla",
+    "location": "Palo Alto",
+    "subtitle": "Ensure software meets high quality standards through testing and debugging"
+    },
+    {
+    "id": 44,
+    "title": "Content Manager",
+    "company": "Netflix",
+    "location": "Los Gatos",
+    "subtitle": "Create, edit, and manage content for websites, social media, and other marketing materials"
+    },
+    {
+    "id": 45,
+    "title": "SEO Specialist",
+    "company": "Facebook",
+    "location": "Menlo Park",
+    "subtitle": "Optimize websites to improve search engine ranking and drive traffic"
+    },
+    {
+    "id": 46,
+    "title": "Mobile Developer",
+    "company": "Google",
+    "location": "Mountain View",
+    "subtitle": "Develop mobile applications for iOS and Android platforms"
+    },
+    {
+    "id": 47,
+    "title": "Customer Service Representative",
+    "company": "Microsoft",
+    "location": "Redmond",
+    "subtitle": "Provide excellent customer service to resolve customer issues and ensure customer satisfaction"
+    },
+    {
+    "id": 48,
+    "title": "Systems Administrator",
+    "company": "Apple",
+    "location": "Cupertino",
+    "subtitle": "Manage and maintain computer systems and networks"
+    },
+    {
+    "id": 49,
+    "title": "Data Engineer",
+    "company": "Amazon",
+    "location": "Seattle",
+    "subtitle": "Design, build, and maintain scalable data systems and pipelines"
+    },
+    {
+    "id": 50,
+    "title": "Front End Developer",
+    "company": "Tesla",
+    "location": "Palo Alto",
+    "subtitle": "Develop and maintain the user-facing part of websites and web applications"
+    }
+  
+
+]
